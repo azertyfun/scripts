@@ -3,10 +3,10 @@
 # Original script by contribucious on github https://github.com/linuxmint/Cinnamon/issues/2190#issuecomment-19863084
 
 # screen width (the effective resolution! just set yours here.)
-screen_width1=1440
-screen_width2=1920
+screen_width1=1920
+screen_width2=1440
 
-screen2_location=1440
+screen2_location=1920
 
 # ACTIVE window
 window=`xdotool getactivewindow`
